@@ -1,0 +1,9 @@
+Debug
+Release
+ipch
+*.suo
+*.user
+*.sdf
+*.aps
+host_bandcamp.dll
+bandcampdl.exe
